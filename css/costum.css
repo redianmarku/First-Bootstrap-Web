@@ -1,0 +1,13 @@
+.navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.active{
+	color: red;
+}
+img{
+	width: 100%;
+}
+.col-md-6{
+	margin-top: 20px;
+}
+body{
+	margin: 15px;
+	background-color: red;
+}
